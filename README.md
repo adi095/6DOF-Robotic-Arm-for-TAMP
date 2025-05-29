@@ -52,8 +52,9 @@ This project presents a full-stack motion planning and control framework for rob
 
 ```bash
 pip install pybullet numpy scipy opencv-python matplotlib torch
+```
 
-## Current Results Summary
+## Current results
 - Success rate: 60% over 30 randomized trials
 - Average planning time: 1.8 seconds
 - Mean position error: ~0.019 m
